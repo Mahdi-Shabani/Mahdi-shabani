@@ -4,3 +4,7 @@
 
 <h2 align='center'>hi my name is mahdi ✌🏼</h2>
 
+<p align='center'>I am a Python programmer👨🏼‍💻
+And I always like to learn new things🤓
+I love computers💻🥰</p>
+
