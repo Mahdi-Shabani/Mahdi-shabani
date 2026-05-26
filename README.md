@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋
 
 I'm Mahdi, passionate about AI, backend development, Flutter mobile development, and open-source projects.  
 I enjoy building scalable applications, developing mobile apps, experimenting with intelligent systems, and learning new technologies.
