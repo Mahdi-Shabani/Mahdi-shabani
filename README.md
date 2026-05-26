@@ -17,6 +17,10 @@ I enjoy building scalable applications, developing mobile apps, experimenting wi
 
 <p align="center">
 <a href="https://linkedin.com/in/mtioji" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mtioji" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="mailto:mahdishabani.ai2000@gmail.com" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="40" />
 </a>
 </p>
